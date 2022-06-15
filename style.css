@@ -1,0 +1,41 @@
+/*selector{
+	property: value;
+}*/
+* {
+	text-align: center ;
+}
+/*body {
+	background-image: url(yosef.sample); 
+	background-size: cover;
+}*/
+h2, p:hover {
+	color: red;
+	text-align: center;
+	border: 5px solid purple;
+	cursor: pointer;
+}
+p{
+	color: hotpink;
+}
+button:hover {
+	color: blue;
+	background: green;
+}
+li {
+	list-style: none;
+	display: inline-block;
+	color: blue;
+}
+a {
+	color: blue;
+}
+
+.webtext:last-child {
+	border: 5px dashed green;
+}
+.active{
+	border: 3px	solid black;
+}
+#div1 {
+	color: transparent blue;
+}
