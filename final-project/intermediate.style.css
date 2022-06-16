@@ -1,0 +1,90 @@
+body {
+	background-color: lightgray;
+}
+.container {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+}
+.jobs{
+	font-family: sans-serif																		;
+	color: whitesmoke;
+	font-size: 50px;
+
+}
+.bioListContainer {
+	display: flex;
+	justify-content: center;
+}
+.bioList{
+	display: inline-block;
+	justify-content: center;
+}
+
+
+h1 {
+	text-align: center;
+	font-size: 50px;
+}
+nav {
+  font-family: sans-serif;
+  background: whitesmoke;
+  display: inline-block;
+  
+  
+}
+
+}
+.span1{
+	font-weight: bold;
+}
+
+
+
+
+
+img {
+	width: 500px; 
+	height:375px ;
+	margin: 7px;
+}
+
+.jobsContainer {
+	border: 3px solid gray;
+	border-width: 80px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.navbar{
+	width:  100%;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	border:  2px solid gray;
+}
+
+.navLinks {
+	padding: 0 30px;
+	text-decoration: none;
+	color: darkgray;
+}
+.navList{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	list-style-type: none;
+}
+iframe {
+	float: right;
+	height: 500;
+}
+.jobs2{
+	font-family: cursive 																	;
+	color: whitesmoke;
+	font-size: 35px;
+}
+.h12{
+	color: darkgray;
+	font-family: cursive;
+}
